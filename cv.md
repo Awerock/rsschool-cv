@@ -8,7 +8,7 @@
 - **Phone**: [write me]
 - **Email**: [cigan-yashkka@yandex.ru]
 - **LinkedIn**: []
-- **Portfolio/Website**: [[Link to portfolio or website](https://github.com/Awerock)]
+- **Portfolio/Website**: [https://github.com/Awerock]
 
 ---
 
@@ -48,7 +48,7 @@ Creative and detail-oriented filmmaker and video editor with extensive experienc
 ### Projects
 
 **Antarctica Documentary**  
-Link: [[URL if available](https://vr360.aari.ru/)]  
+Link: [(https://vr360.aari.ru/)]  
 Description: A film capturing the life and research activities at Vostok Station, showcasing the challenges and triumphs of scientific work in Antarctica.
 
 ---
